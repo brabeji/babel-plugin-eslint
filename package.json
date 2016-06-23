@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-eslint",
+  "version": "0.0.1",
+  "description": "Babel plugin to run eslint on source file when compiling",
+  "main": "index.js",
+  "author": "brabeji",
+  "license": "ISC",
+  "dependencies": {
+    "babel-runtime": "^6.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^2.13.1"
+  }
+}
